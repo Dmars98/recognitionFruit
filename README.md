@@ -11,6 +11,12 @@ Projects is created with:
 ## This App enables user to:
 - [x] to browsing a picture and find the name and the number of calories on the fruit
 
+## Get all the picture for test the app on the test folder
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/ProjectMLUE/recognitionFruit/blob/master/FruitRecognition.gif'>
+
 
 
 ## Setup
